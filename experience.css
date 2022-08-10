@@ -129,7 +129,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/experience/background.png);
+    background: url(background.png);
     background-size: cover;
     height: 100vh;
 }
